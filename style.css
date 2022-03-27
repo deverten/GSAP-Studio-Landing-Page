@@ -309,10 +309,10 @@ footer p {
 	.img-box7 img,
 	.img-box8 img {
 		max-width: 100%;
-		width: 80%;
+		width: 90%;
 		height: 50vh;
-		margin: 1rem 0;
-		/* display: block; */
+		margin: 1rem auto;
+		/* display: blck; */
 		/* height: 50vh; */
 		/* object-fit:fill; */
 		/* max-width: 100%;
