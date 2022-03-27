@@ -47,9 +47,9 @@ nav {
 	justify-content: space-between;
 	padding: 3rem 0;
 }
-/* .hamburger {
+.hamburger {
 	display: none;
-} */
+}
 /* .menuham {
 	display: none;
 } */
@@ -239,15 +239,15 @@ footer p {
 		width: 100%;
 	}
 	.navbar {
-		position: relative;
+		/* position: relative; */
 		/* width: 100vw; */
 		margin: 0 1rem;
 	}
-	/* .hamburger {
+	.hamburger {
 		display: flex;
-		position: absolute;
-		right: 1rem;
-	} */
+		/* position: absolute;
+		right: 1rem; */
+	}
 	/* .menuham {
 		display: flex;
 	} */
