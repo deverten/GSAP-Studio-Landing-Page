@@ -230,9 +230,7 @@ footer p {
 .panel {
 	/* position: sticky; */
 }
-.virtual-reality img {
-	height: 50vh;
-}
+
 @media screen and (max-width: 600px) {
 	/* body {
 		background-color: blue;
@@ -288,13 +286,19 @@ footer p {
 	}
 	article {
 		width: 95%;
+		justify-content: center;
 	}
 	.interactive-img {
 		width: 100%;
 	}
 	.photos {
+		margin: 0 auto;
+
 		flex-direction: column;
 		width: 100%;
+	}
+	.virtual-reality img {
+		height: 50vh;
 	}
 
 	.img-box1 img,
