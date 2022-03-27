@@ -271,7 +271,7 @@ footer p {
 		margin: 0 auto;
 	}
 	.label {
-		width: 80%;
+		width: 100%;
 		flex-direction: column;
 		justify-content: center;
 		align-items: center;
@@ -280,6 +280,9 @@ footer p {
 	.label h3 {
 		margin: 0 auto;
 	}
+	/* button {
+		padding: 0.2rem 0.4rem;
+	} */
 	section {
 		width: 95%;
 		flex-direction: column;
@@ -322,6 +325,9 @@ footer p {
 	footer p {
 		margin-top: 0.5rem;
 		text-align: center;
+	}
+	.logos {
+		margin: 0.2rem auto;
 	}
 }
 
